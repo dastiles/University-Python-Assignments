@@ -1,0 +1,17 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns":["hello", "hey", "hi", "greetings", "What's up?", "how is it going?"],
+        "responses":["Hello", "Hey", "What can i do for you"]
+    },
+    {
+        "tag": "name",
+        "patterns":["What is your name", "what should i call you", "What your name", "who are you", "can you tell me your name", "how is it going?"],
+        "responses":["My name is Stiles the bot ", "I am stiles the bot", "stiles the bot is my name"]
+    },
+    {
+        "tag": "goodbye",
+        "patterns":["okay thanks", "see you later", "goodbye", "i am leaving", "have a good day", "see yah"],
+        "responses":["sad to see you go", "Goodbye", "see you again"]
+    }
+]}

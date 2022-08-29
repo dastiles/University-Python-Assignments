@@ -1,0 +1,31 @@
+{"messages":[
+    {
+        "tags":["hi", "hello", "hey", "Whats up", "good day", "are you", "hie", "howdy"],
+        "responses":["Hi. How can we help you today", "Good day to you. How can i help", "Hello my name is stiles. How can i help you today"]
+    },
+    {
+        "tags":[ "symptoms", "symptoms of monkeypox","rash that forms blisters", "fever", "pains", "signs",  "headache", "shivering", "swollen", "infected person",  "know"],
+        "responses":["symptoms of monkeypox include Fever, Swollen lymph nodes, and a rash that forms blisters and then crust over. \n The duration of symptoms is typically 2 to 4 weeks", "The classic presentation of fever and muscle pains, followed by swollen glands, with lesions all at the same stage", "Common symptoms of monkeypox are \n 1) Fever \n 2) Headache,  \n 3) Muscle pains \n 4) Shivering \n 5) Blistering rash \n 6) Swollen lymp nodes.\n There may be mild symptoms, but it may occur without any symptoms being known.","the signs and symptoms may include fever,chills,headache,fatigue,swollen lymph and rash that may take weeks to clear"]
+    },
+    {
+        "tags":["monkeypox", "monkey pox", "infectious disease",  "virus",  "monkey","pox","ill", "sick", "feeling well"],
+        "responses":["Monkeypox is an infectious viral that can occur in some humans and some other animals", "monkeypox is a rare disease similar to smallpox caused by the monkeypox virus"]
+    },
+    {
+        "tags":["prevention",   "vaccination", "prevent", "control", "stop"],
+        "responses":["To protect against monkeypox please get vaccinated against smallpox because it is assumed to provide protection against human monkeypox infection because they are closely related viruses.\n An infected person should be isolated inorder to prevent him or her from infecting others"]
+    },
+{
+    "tags":["contract", "get", "affected","contact", "fell", "infected"],
+    "responses":["monkeypox is spread when you come into contact with an animal or a person infected with the virus"]
+},
+{
+    "tags":["medication", "cure", "medicine"],
+    "responses":["currently,there is no cure, monkey pox is a self-limited disease with symptoms lasting for two two four weeks and most get better on their own"]
+},
+{
+    "tags":["kill", "died", "die", "fatal", "mortality"],
+    "responses":["no one has died from monkeypox to date"]
+}
+
+]}
